@@ -1,0 +1,25 @@
+.H {
+    display: flex;
+    border : dashed 10pt burlywood;
+    font-size: 100px;
+    justify-content:center;
+}
+.row{
+    display:flex;
+    flex-direction: row;
+    align-content: space-between;
+}
+.col{
+    display:flex;
+    justify-content: space-between center;
+    margin: 30px;
+    border: solid salmon 20px;
+    margin-left: 5%;
+}
+.f1{
+    text-align: center;
+    display: flex;
+    border: dotted burlywood 20px;
+    margin-top: 5%;
+
+}
